@@ -1,0 +1,3 @@
+# **Principal Component analysis with Python**
+
+This notebook is used to explain PCA with the library scikit-learn with the mobile price classification dataset find [here](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) as a case study. This notebook has an associate blog post to explain the concepts. You can find it [here](https://www.datainsightonline.com/post/principal-component-analysis-with-python).
